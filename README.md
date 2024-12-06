@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 🌟 About Samata Bajracharya 🌟
+# 🌟 About Me 🌟
 
 👩‍💻 **Data Science Professional | Transforming Data into Strategic Assets**
 
